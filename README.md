@@ -8,7 +8,7 @@ This script requires Python version 3x.
 
 ## Configuration 
 
-In the `csvToJson.py` file, ensure the `.csv` filename match your actual CSV filename:
+In the `csvToJson.py` file, ensure the `.csv` filename matches your actual CSV filename:
 
 ```Python
 with open('sample.csv'...
@@ -21,7 +21,7 @@ with open('sample.json'...
 ```
 ## Running the script 
 
-Ensure the .csv and .py files are in the same directory and within that directory run:
+Ensure the `.csv` and `.py` files are in the same directory and run:
 
 ```ssh
 python3 csvToJson.py
